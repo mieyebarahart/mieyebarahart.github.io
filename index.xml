@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Mieye Profile</title>
+		<link>https://mieyebarahart.github.io/</link>
+		<description>Recent content on Mieye Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jul 2026 23:29:21 +0530</lastBuildDate>
+		
+			<atom:link href="https://mieyebarahart.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rejected By Code: How AI Hiring Tools Reinforce Racial Inequality</title>
+				<link>https://mieyebarahart.github.io/blogs/bias-algorithm/</link>
+				<pubDate>Wed, 01 Jul 2026 23:29:21 +0530</pubDate>
+				<guid>https://mieyebarahart.github.io/blogs/bias-algorithm/</guid>
+				<description>&lt;h2 id=&#34;rejected-by-code-how-ai-hiring-tools-reinforce-racial-inequality&#34;&gt;Rejected by Code: How AI Hiring Tools Reinforce Racial Inequality&lt;/h2&gt;&#xA;&lt;p&gt;What if being rejected from your dream job had nothing to do with your qualifications, your industry experience, or your performance during the interview process? What if, instead, the deciding factor was simply your race? For millions of job seekers navigating today&amp;rsquo;s digital market, this is not a hypothetical anxiety. It is a silent, automated reality. Imagine applying to dozens of positions and being systematically filtered out without ever receiving an explanation. Now imagine that the root cause is not a lack of merit, but invisible patterns embedded deep within a proprietary algorithm. As corporations rapidly adopt artificial intelligence to streamline their recruitment pipelines, a troubling truth is emerging from behind the screen.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Anonymity Paradox: A Promise Broken at the Login Screen</title>
+				<link>https://mieyebarahart.github.io/blogs/ethics/</link>
+				<pubDate>Sat, 20 Jun 2026 23:29:21 +0530</pubDate>
+				<guid>https://mieyebarahart.github.io/blogs/ethics/</guid>
+				<description>&lt;h2 id=&#34;the-anonimity-paradox-a-promise-broken-at-the-login-screen&#34;&gt;The Anonimity Paradox: A Promise Broken At The Login Screen&lt;/h2&gt;&#xA;&lt;p&gt;In recent times, with the increasing amount of data being collected and analyzed, data must be handled responsibly to protect privacy and preserve ethical principles. Data is commonly referred to as the new oil. However, the behavioural patterns linked to its collection mirror those of uranium. When data is handled responsibly, it can power incredible organizational insights and improve performance. On the flip side, it can abuse user trust and cause emotional, mental and even physical harm to users. As data analysts, we are frequently asked to gain meaningful insights from data systems to guide strategic, data-informed decisions by executive leadership.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My Journey into Data Analysis</title>
+				<link>https://mieyebarahart.github.io/blogs/my-journey/</link>
+				<pubDate>Thu, 18 Jun 2026 23:29:21 +0530</pubDate>
+				<guid>https://mieyebarahart.github.io/blogs/my-journey/</guid>
+				<description>&lt;h1 id=&#34;from-day-one-to-data-why-i-finally-enrolled-in-a-data-analysis-program&#34;&gt;From Day One to Data: Why I Finally Enrolled in a Data Analysis Program&lt;/h1&gt;&#xA;&lt;p&gt;We all have that moment where we look at our day-to-day routine and ask ourselves, &amp;ldquo;Is this it?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;For a long time, I was navigating a path that felt more focused on completing tasks than building a future. While I enjoyed solving problems and making sense of complex information, I often found myself relying on intuition, routine, and experience rather than concrete evidence. Eventually, a shift happened. I decided to trade ambiguity for certainty, speculation for proof, and take a leap that would completely transform my professional direction: I officially started a Data Analysis program.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Image Gallery</title>
+				<link>https://mieyebarahart.github.io/gallery/</link>
+				<pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+				<guid>https://mieyebarahart.github.io/gallery/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

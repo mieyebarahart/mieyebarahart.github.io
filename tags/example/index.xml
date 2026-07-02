@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Example on Mieye Profile</title>
+		<link>http://localhost:1313/tags/example/</link>
+		<description>Recent content in Example on Mieye Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 20 Jun 2026 23:29:21 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Anonymity Paradox: A Promise Broken at the Login Screen</title>
+				<link>http://localhost:1313/blogs/ethics/</link>
+				<pubDate>Sat, 20 Jun 2026 23:29:21 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/ethics/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In recent times, with the increasing amount of data being collected and analyzed, data must be handled responsibly to protect privacy and preserve ethical principles. Data is commonly referred to as the new oil. However, the behavioural patterns linked to its collection mirror those of uranium. When data is handled responsibly, it can power incredible organizational insights and improve performance. On the flip side, it can abuse user trust and cause emotional, mental and even physical harm to users. As data analysts, we are frequently asked to gain meaningful insights from data systems to guide strategic, data-informed decisions by executive leadership.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My Journey into Data Analysis</title>
+				<link>http://localhost:1313/blogs/my-journey/</link>
+				<pubDate>Thu, 18 Jun 2026 23:29:21 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/my-journey/</guid>
+				<description>&lt;h2 id=&#34;the-transition&#34;&gt;The Transition&lt;/h2&gt;&#xA;&lt;p&gt;I have a background in biochemistry and biomedical science, where I developed strong analytical and problem-solving skills. Through my academic experience, I became interested in working with data, interpreting results, and identifying patterns.&#xA;I am currently pursuing a diploma in data analysis, where I am learning how to work with data using tools such as Excel, Python, and data visualization techniques. This transition allows me to apply my scientific background in a broader, more versatile way.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

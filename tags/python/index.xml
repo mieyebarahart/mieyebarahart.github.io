@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Python on Mieye Profile</title>
+		<link>https://mieyebarahart.github.io/tags/python/</link>
+		<description>Recent content in Python on Mieye Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 18 Jun 2026 23:29:21 +0530</lastBuildDate>
+		
+			<atom:link href="https://mieyebarahart.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My Journey into Data Analysis</title>
+				<link>https://mieyebarahart.github.io/blogs/my-journey/</link>
+				<pubDate>Thu, 18 Jun 2026 23:29:21 +0530</pubDate>
+				<guid>https://mieyebarahart.github.io/blogs/my-journey/</guid>
+				<description>&lt;h1 id=&#34;from-day-one-to-data-why-i-finally-enrolled-in-a-data-analysis-program&#34;&gt;From Day One to Data: Why I Finally Enrolled in a Data Analysis Program&lt;/h1&gt;&#xA;&lt;p&gt;We all have that moment where we look at our day-to-day routine and ask ourselves, &amp;ldquo;Is this it?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;For a long time, I was navigating a path that felt more focused on completing tasks than building a future. While I enjoyed solving problems and making sense of complex information, I often found myself relying on intuition, routine, and experience rather than concrete evidence. Eventually, a shift happened. I decided to trade ambiguity for certainty, speculation for proof, and take a leap that would completely transform my professional direction: I officially started a Data Analysis program.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
